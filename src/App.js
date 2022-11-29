@@ -80,7 +80,7 @@ let reload = () => {
       </form>
 
       <div className="center">
-        <h3> Your BMI is: {bmi}</h3>
+        <h3> Your BMI IS: {bmi}</h3>
         <p> {message}</p>
         
       </div>
